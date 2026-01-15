@@ -1,0 +1,13 @@
+# Go
+/bin/
+*.exe
+*.out
+
+# Node
+node_modules/
+
+# Env
+*.env 
+
+# OS
+.DS_Store
